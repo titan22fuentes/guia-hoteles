@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "El primer proyecto de Node JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titan22fuentes/guia-hoteles.git"
+  },
+  "author": "Mafuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titan22fuentes/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/titan22fuentes/guia-hoteles#readme"
+}
